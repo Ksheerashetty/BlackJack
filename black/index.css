@@ -1,0 +1,26 @@
+body{
+    background-image: url("table.jpg");
+    text-align: center;
+    background-size: cover;
+    
+}
+h1{
+    color: goldenrod;
+}
+p{
+    font-size:x-large;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(28, 25, 195);
+    font-weight: bold;
+}
+button{
+    background-color: rgb(6, 95, 6);
+    border-radius:2px;
+    border: none;
+    color: goldenrod;
+    padding:5px;
+    font-size: larger;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }

@@ -8,7 +8,7 @@ let sumEl=document.getElementById("sum")
 let cardEl=document.getElementById("cards")
 
 function random(){
-    let num=Math.floor(Math.random()*12)+1
+    let num=Math.floor(Math.random()*13)+1
     if(num<=10)
     return num
     else if(num==1)

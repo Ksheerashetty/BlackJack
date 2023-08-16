@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+  }
+  
+  .background-image {
+    background-image: url("table.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .blurry-container {
+    text-align: center;
+    backdrop-filter: blur(8px);
+    border-radius: 10px;
+  }
+  
+  .blurry-text {
+    font-size: 24px;
+    color: #D4AF37;
+  }
+  
+h1{
+    color:#FFED8A;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid #FFD700;
+    text-shadow: -1px -1px 1px #FFD700, 1px -1px 1px#FFD700, -1px 1px 1px#FFD700, 1px 1px 1px#FFD700;
+}
+p{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(186, 0, 0);
+    font-weight: bold;
+}
+button{
+    background-color: #105d00;
+    border-radius:5px;
+    border: 1px solid#FFED8A;;
+    color:#FFED8A;
+    padding:5px;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ a{
+    color:#8B0000;
+    text-decoration: none;
+ }
+ #cards{
+  color:rgb(83, 0, 0);
+    
+
+ }
+ #sum{
+  color:rgb(83, 0, 0);
+    
+
+ }
